@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to .NET Girls! 👋
+
+We empower women to discover their passion for coding.
+
+.NET Girls host complimentary workshops on .NET and C#, develop open-source online guides, and craft exceptional introductory experiences with technology.
 
 <!--
 
